@@ -22,6 +22,6 @@
   "publishConfig": {
     "registry": "https://package.openupm.com"
   },
-  "documentationUrl": "https://docs.parsue.io/aceland-unity-packages/core-packages/licensing-dev",
+  "documentationUrl": "https://docs.parsue.io/aceland-unity-packages/core-packages/licensing",
   "type": "tool"
 }
