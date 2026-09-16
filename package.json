@@ -1,0 +1,27 @@
+{
+  "name": "com.aceland.licensing",
+  "version": "1.0.0",
+  "displayName": "AceLand Licensing",
+  "description": "Shared Editor-only licensing core for AceLand paid packages. Provides offline signed-token verification, machine-id seat binding, backend verify / trial calls, and a reusable license UI. Products register a LicenseProductDescriptor and consume a per-product LicenseHandle. Runtime and builds are never gated.",
+  "unity": "2022.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parsue/com.aceland.licensing.git"
+  },
+  "author": {
+    "name": "Parsue - AceLand Workshop",
+    "url": "https://www.parsue.io/",
+    "email": "parsue@gmail.com"
+  },
+  "keywords": [
+    "license",
+    "licensing",
+    "editor",
+    "aceland"
+  ],
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  },
+  "documentationUrl": "https://docs.parsue.io/aceland-unity-packages/core-packages/licensing-dev",
+  "type": "tool"
+}
