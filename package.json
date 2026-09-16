@@ -1,6 +1,6 @@
 {
   "name": "com.aceland.licensing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "AceLand Licensing",
   "description": "Shared Editor-only licensing core for AceLand paid packages. Provides offline signed-token verification, machine-id seat binding, backend verify / trial calls, and a reusable license UI. Products register a LicenseProductDescriptor and consume a per-product LicenseHandle. Runtime and builds are never gated.",
   "unity": "2022.3",
